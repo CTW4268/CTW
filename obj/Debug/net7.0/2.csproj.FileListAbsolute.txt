@@ -1,0 +1,17 @@
+D:\PROGRAM\css\2\bin\Debug\net7.0\2.exe
+D:\PROGRAM\css\2\bin\Debug\net7.0\2.deps.json
+D:\PROGRAM\css\2\bin\Debug\net7.0\2.runtimeconfig.json
+D:\PROGRAM\css\2\bin\Debug\net7.0\2.dll
+D:\PROGRAM\css\2\bin\Debug\net7.0\2.pdb
+D:\PROGRAM\css\2\obj\Debug\net7.0\2.csproj.AssemblyReference.cache
+D:\PROGRAM\css\2\obj\Debug\net7.0\2.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROGRAM\css\2\obj\Debug\net7.0\2.AssemblyInfoInputs.cache
+D:\PROGRAM\css\2\obj\Debug\net7.0\2.AssemblyInfo.cs
+D:\PROGRAM\css\2\obj\Debug\net7.0\2.csproj.CoreCompileInputs.cache
+D:\PROGRAM\css\2\obj\Debug\net7.0\2.dll
+D:\PROGRAM\css\2\obj\Debug\net7.0\refint\2.dll
+D:\PROGRAM\css\2\obj\Debug\net7.0\2.pdb
+D:\PROGRAM\css\2\obj\Debug\net7.0\2.genruntimeconfig.cache
+D:\PROGRAM\css\2\obj\Debug\net7.0\ref\2.dll
+D:\PROGRAM\css\2\bin\Debug\net7.0\HtmlAgilityPack.dll
+D:\PROGRAM\css\2\obj\Debug\net7.0\2.csproj.CopyComplete
